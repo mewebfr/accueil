@@ -1,0 +1,68 @@
+#conteneur{
+	display: flex;
+	justify-content: space-around;
+}
+
+body{
+	background-color: black;
+}
+
+.corp{
+	flex-direction: column;
+}
+
+a{
+	text-decoration: none;
+	display: flex;
+}
+
+.search{
+	background: white;
+	border-radius: 20px;
+	box-shadow: 5px 5px 20px purple;
+	height: 60px;
+	width: 500px;
+	margin: auto;
+	margin-top: 50px;
+	font-size: 30px;
+}
+
+.cubes{
+	border: 0.5px white outset;
+	border-radius: 20px;
+	width: 300px;
+	height: 300px;
+	margin-top: 200px;
+	margin-bottom: 100px;
+	box-shadow: 8px 8px 25px purple;
+	align-items: center;
+	font-size: 40px;
+}
+
+.gmail{
+	background-color: white;
+	color: red;
+	text-shadow: 12px 7px 10px purple;
+}
+
+.ytb{
+	color: white;
+	background-color: #b30c0c;
+	text-shadow: 12px 7px 10px purple;
+
+}
+
+.fff{
+	background-color: black;
+	color: red;
+	text-align: center;
+}
+
+.lcl{
+	background-color: blue;
+	color: yellow;
+}
+
+.text{
+	margin: auto;
+}
